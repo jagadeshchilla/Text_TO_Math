@@ -22,7 +22,6 @@
 - [🏗️ Architecture](#️-architecture)
 - [🔧 Dependencies](#-dependencies)
 - [📈 Performance](#-performance)
-- [🤝 Support](#-support)
 
 ---
 
