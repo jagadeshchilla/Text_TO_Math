@@ -1,5 +1,7 @@
 # 🧮 Text to Math Problem Solver
 
+[![Live Demo](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://texttomath-7oauktgywxwh8zf9cdakkn.streamlit.app/)
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -27,7 +29,7 @@
 
 ## 🎯 About
 
-**Text to Math Problem Solver** is an intelligent AI-powered application that transforms complex mathematical word problems into step-by-step solutions using Google's advanced Gemma 2 language model. Built with Streamlit and powered by LangChain, this tool combines mathematical reasoning with real-time web search capabilities to provide comprehensive and accurate solutions.
+**Text to Math Problem Solver** is an intelligent AI-powered application that transforms complex mathematical word problems into step-by-step solutions using Google's advanced Gemma 2 language model and LangChain.
 
 ### 🎨 What Makes It Special?
 
@@ -219,25 +221,6 @@ langchain-community==0.0.10
 wikipedia==1.4.0
 python-dotenv==1.0.0
 ```
-
----
-
-## 📈 Performance
-
-### Speed Metrics
-- **Response Time**: 2-5 seconds for complex problems
-- **Model Inference**: Powered by Groq's ultra-fast inference
-- **Concurrent Users**: Supports multiple simultaneous sessions
-
-### Accuracy
-- **Mathematical Problems**: 95%+ accuracy on standard problems
-- **Word Problems**: 90%+ accuracy on complex scenarios
-- **Research Integration**: Real-time fact verification
-
-### Scalability
-- **Cloud Ready**: Deployable on any cloud platform
-- **Resource Efficient**: Optimized for minimal resource usage
-- **Auto-scaling**: Handles varying load automatically
 
 ---
 
