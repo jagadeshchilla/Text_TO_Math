@@ -1,7 +1,5 @@
 # 🧮 Text to Math Problem Solver
 
-[![Live Demo](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://texttomath-7oauktgywxwh8zf9cdakkn.streamlit.app/)
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -10,7 +8,7 @@
 ![Groq](https://img.shields.io/badge/Groq-00A67E?style=for-the-badge&logo=groq&logoColor=white)
 ![Gemma](https://img.shields.io/badge/Google_Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)
 </div>
-
+[![Live Demo](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://texttomath-7oauktgywxwh8zf9cdakkn.streamlit.app/)
 ---
 
 ## 📋 Table of Contents
